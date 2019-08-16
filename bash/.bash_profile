@@ -1,4 +1,5 @@
 alias emacs="emacs -nw"
+alias rm="rm -i"
 
 export PATH=/usr/local/bin:$PATH
 
