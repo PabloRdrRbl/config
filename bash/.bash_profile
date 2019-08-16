@@ -1,5 +1,6 @@
 alias emacs="emacs -nw"
 alias rm="rm -i"
+alias matlab="/Applications/MATLAB_R2019a.app/bin/matlab -nodesktop"
 
 export PATH=/usr/local/bin:$PATH
 
